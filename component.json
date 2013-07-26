@@ -3,7 +3,13 @@
   "repo": "esundahl/museo-sans-cyrillic-500",
   "description": "Museo Sans Cyrillic 500 Font Component",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "museo",
+    "sans",
+    "cyrillic",
+    "500"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
