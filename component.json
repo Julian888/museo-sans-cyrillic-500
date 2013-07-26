@@ -1,0 +1,19 @@
+{
+  "name": "museo-sans-cyrillic-500",
+  "repo": "esundahl/museo-sans-cyrillic-500",
+  "description": "Museo Sans Cyrillic 500 Font Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-sans-cyrillic-500.css"
+  ],
+  "fonts": [
+    "fonts/museosanscyrl_500-webfont.eot",
+    "fonts/museosanscyrl_500-webfont.svg",
+    "fonts/museosanscyrl_500-webfont.ttf",
+    "fonts/museosanscyrl_500-webfont.woff",
+  ]
+}

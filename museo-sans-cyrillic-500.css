@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Museo Sans Cyrillic';
+  src: url('fonts/museosanscyrl_500-webfont.eot');
+  src: url('fonts/museosanscyrl_500-webfont.eot?#iefix') format('embedded-opentype'),
+       url('fonts/museosanscyrl_500-webfont.woff') format('woff'),
+       url('fonts/museosanscyrl_500-webfont.ttf') format('truetype'),
+       url('fonts/museosanscyrl_500-webfont.svg#museo_sans_cyrl500') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
